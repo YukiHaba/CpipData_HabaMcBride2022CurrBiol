@@ -1,0 +1,215 @@
+﻿Country,Locality,Latitude,Longitude,Microhabitat,CpipComplexIDMethod,Fig3A_PieShown,N,N_mm,N_pp,N_pm,Freq_mm,Freq_pp,Freq_pm,Freq_m,Freq_p,F_IS,PooledByAuthors,Reference,DOI_link,1stAuthor,Year
+Algeria,Reghaia,36.74,3.34,aboveground,morphology,X,35,10,15,10,0.29,0.42,0.29,0.44,0.57,0.417,no,S23,https://www.imedpub.com/articles/molecular-characterization-of-culex-pipiens-diptera-culicidae-in-reghaa-lake-algeria.pdf,Benallal,2015
+Algeria,"Urban sites, El-Kala",36.89,8.44,aboveground,unknown,,10,3,4,3,0.30,0.40,0.30,0.45,0.55,,no,S13,10.1186/s13071-016-1725-9,Amara Korba,2016
+Algeria,"Suburban sites, El-Kala",36.89,8.44,aboveground,unknown,,8,2,1,5,0.25,0.13,0.63,0.56,0.44,,no,S13,10.1186/s13071-016-1725-9,Amara Korba,2016
+Algeria,"Rural sites, El-Kala",36.89,8.44,aboveground,unknown,,7,4,1,2,0.57,0.14,0.29,0.71,0.29,,no,S13,10.1186/s13071-016-1725-9,Amara Korba,2016
+Algeria,"Suburban sites, M'Sila",35.70,4.54,aboveground,unknown,,18,9,5,4,0.50,0.28,0.22,0.61,0.39,,no,S13,10.1186/s13071-016-1725-9,Amara Korba,2016
+Algeria,"Rural sites, M'Sila",35.70,4.54,aboveground,unknown,,12,4,4,4,0.50,0.28,0.22,0.61,0.39,,no,S13,10.1186/s13071-016-1725-9,Amara Korba,2016
+Austria,Güssing,47.17,16.12,aboveground,adult morphology + ACE,,18,1,15,2,0.06,0.83,0.11,0.11,0.89,,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Jennersdorf,46.96,16.27,aboveground,adult morphology + ACE,,82,12,65,5,0.15,0.79,0.06,0.18,0.82,0.791,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Oberwart,47.09,16.29,aboveground,adult morphology + ACE,X,290,4,265,21,0.01,0.91,0.07,0.05,0.95,0.238,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Oberpullendorf,47.30,16.45,aboveground,adult morphology + ACE,,12,0,12,0,0.00,1.00,0.00,0.00,1.00,,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Jennersdorf,47.61,16.50,aboveground,adult morphology + ACE,,13,2,10,1,0.15,0.77,0.08,0.19,0.81,,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Neusiedl am See,47.71,16.51,aboveground,adult morphology + ACE,,20,0,19,1,0.00,0.95,0.05,0.03,0.98,,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Neusiedl am See,48.02,16.97,aboveground,adult morphology + ACE,,31,0,30,1,0.00,0.97,0.03,0.02,0.98,,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Seewinkel National Park,47.77,16.77,aboveground,adult morphology + ACE,,18,0,16,2,0.00,0.89,0.11,0.06,0.94,,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Wien Umgebung,48.25,16.12,aboveground,adult morphology + ACE,,32,4,25,3,0.13,0.78,0.09,0.17,0.83,0.671,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Mödling,48.04,16.29,aboveground,adult morphology + ACE,,81,0,77,4,0.00,0.95,0.05,0.02,0.98,,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Orth an der Donau,48.14,16.67,aboveground,adult morphology + ACE,,17,0,17,0,0.00,1.00,0.00,0.00,1.00,,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Eckertsau,48.13,16.79,aboveground,adult morphology + ACE,,24,0,24,0,0.00,1.00,0.00,0.00,1.00,,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Stopfenreuth,48.14,16.87,aboveground,adult morphology + ACE,,30,0,28,2,0.00,0.93,0.07,0.03,0.97,,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Orth an der Donau,48.14,16.70,aboveground,adult morphology + ACE,,72,4,66,2,0.06,0.92,0.03,0.07,0.93,0.785,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Strasshof,48.32,16.67,aboveground,adult morphology + ACE,,64,0,62,2,0.00,0.97,0.03,0.02,0.98,,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Tulln,48.35,16.26,aboveground,adult morphology + ACE,,29,1,27,1,0.03,0.93,0.03,0.05,0.95,,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Donauinsel,48.21,16.44,aboveground,adult morphology + ACE,,20,2,18,0,0.10,0.90,0.00,0.10,0.90,,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Kaisermühlen,48.21,16.45,aboveground,adult morphology + ACE,X,256,11,220,25,0.04,0.86,0.10,0.09,0.91,0.414,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Klosterneuburg site 1,48.32,16.32,aboveground,adult morphology + ACE,,18,1,15,2,0.06,0.83,0.11,0.11,0.89,,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Klosterneuburg site 2,48.35,16.27,aboveground,adult morphology + ACE,,63,1,62,0,0.02,0.98,0.00,0.02,0.98,,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Klosterneuburg site 3,48.31,16.29,aboveground,adult morphology + ACE,,29,0,27,2,0.00,0.93,0.07,0.03,0.97,,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Marchegg site 1,48.28,16.91,aboveground,adult morphology + ACE,X,137,4,131,2,0.03,0.96,0.01,0.04,0.96,,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+Austria,Marchegg site 2,48.27,16.90,aboveground,adult morphology + ACE,,33,2,28,3,0.06,0.85,0.09,0.11,0.89,0.521,no,S12,10.1186/s13071-016-1495-4,Zittra ,2016
+France,Prades le Lez,43.70,3.86,aboveground,adult morphology + ACE + COI ,X,38,3,30,5,0.08,0.79,0.13,0.15,0.86,,unknown,S11,10.1186/s13071-016-1333-8,Shaikevich,2016
+France,Saint-Nazaire de Pezan ,43.63,4.13,aboveground,adult morphology + ACE + COI ,,11,0,9,2,0.00,0.82,0.18,0.01,0.99,,unknown,S11,10.1186/s13071-016-1333-8,Shaikevich,2016
+France,Cogolin,43.25,6.53,aboveground,adult morphology + ACE,,8,1,4,3,0.13,0.50,0.38,0.31,0.69,,no,S21,10.4269/ajtmh.2006.75.2.0750251,Bahnck,2006
+France,Frejus,43.43,6.73,aboveground,adult morphology + ACE,,8,3,4,1,0.38,0.50,0.13,0.44,0.56,,no,S21,10.4269/ajtmh.2006.75.2.0750251,Bahnck,2006
+Germany,Bobenheim-Roxheim,49.57,8.35,aboveground,adult morphology + ACE,,12,3,8,1,0.25,0.67,0.08,0.29,0.71,,no,S18,10.1371/journal.pone.0071832,Rudolf,2013
+Germany,Dirmstein,49.57,8.23,aboveground,adult morphology + ACE,X,100,5,93,2,0.05,0.93,0.02,0.06,0.94,0.823,no,S18,10.1371/journal.pone.0071832,Rudolf,2013
+Germany,Bad Dürkheim,49.37,8.13,aboveground,adult morphology + ACE,,19,1,18,0,0.05,0.95,0.00,0.05,0.95,,no,S18,10.1371/journal.pone.0071832,Rudolf,2013
+Germany,Neustadt a. d. Weinstraße,49.37,8.13,aboveground,adult morphology + ACE,,37,2,35,0,0.05,0.95,0.00,0.05,0.95,1.000,no,S18,10.1371/journal.pone.0071832,Rudolf,2013
+Germany,Langenlesten,53.05,10.73,aboveground,adult morphology + ACE,X,224,3,221,0,0.01,0.99,0.00,0.01,0.99,,no,S18,10.1371/journal.pone.0071832,Rudolf,2013
+Germany,Stelle-Ashauen,53.35,10.10,aboveground,adult morphology + ACE,,15,0,15,0,0.00,1.00,0.00,0.00,1.00,,no,S18,10.1371/journal.pone.0071832,Rudolf,2013
+Germany,Wulksfelde,53.72,10.10,aboveground,adult morphology + ACE,X,43,1,41,1,0.02,0.95,0.02,0.03,0.97,,no,S18,10.1371/journal.pone.0071832,Rudolf,2013
+Germany,Ohlsdorf,53.62,10.03,aboveground,adult morphology + ACE,,7,0,7,0,0.00,1.00,0.00,0.00,1.00,,no,S18,10.1371/journal.pone.0071832,Rudolf,2013
+Germany,Hummelsbüttel,53.63,10.03,aboveground,adult morphology + ACE,,25,0,25,0,0.00,1.00,0.00,0.00,1.00,,no,S18,10.1371/journal.pone.0071832,Rudolf,2013
+Germany,Gammendorf,54.48,11.13,aboveground,adult morphology + ACE,,14,0,14,0,0.00,1.00,0.00,0.00,1.00,,no,S18,10.1371/journal.pone.0071832,Rudolf,2013
+Germany,Nonnenweier,48.34,7.76,aboveground,adult morphology + ACE,,8,0,8,0,0.00,1.00,0.00,0.00,1.00,,no,S21,10.4269/ajtmh.2006.75.2.0750251,Bahnck,2006
+Germany,Berlin,52.52,13.38,aboveground,adult morphology + ACE + COI ,,9,0,9,0,0.00,1.00,0.00,0.00,1.00,,unknown,S11,10.1186/s13071-016-1333-8,Shaikevich,2016
+Germany,Hannover,52.37,9.72,aboveground,adult morphology + ACE + COI ,,17,0,17,0,0.00,1.00,0.00,0.00,1.00,,unknown,S11,10.1186/s13071-016-1333-8,Shaikevich,2016
+Greece,Thessaloniki ,40.63,22.73,aboveground,adult morphology + ACE,X,36,24,6,6,0.67,0.17,0.17,0.75,0.25,0.556,no,S2,10.1016/ j.meegid.2013.02.006,Gomes,2013
+Greece,Schinias-Marathonas ,38.15,24.02,aboveground,adult morphology + ACE,X,40,34,0,6,0.85,0.00,0.15,0.93,0.08,-0.081,no,S2,10.1016/ j.meegid.2013.02.006,Gomes,2013
+Iran,Coast of Caspian Sea,36.66,51.09,aboveground,adult morphology,X,323,4,305,14,0.01,0.94,0.04,0.03,0.97,,yes across sites and years,S17,10.1186/s13071-018-3237-2,Shahhosseini,2018
+Italy,"Appiano - Lago di Monticolo, South Tyrol Province",46.44,11.27,aboveground,adult morphology + ACE,,20,0,20,0,0.00,1.00,0.00,0.00,1.00,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Ponte Oliveti, Trento Province",46.04,10.96,aboveground,adult morphology + ACE,,6,1,5,0,0.17,0.83,0.00,0.17,0.83,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Ceniga, Trento Province",45.95,10.90,aboveground,adult morphology + ACE,,11,4,5,2,0.36,0.45,0.18,0.45,0.55,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Arco, Trento Province",45.92,10.89,aboveground,adult morphology + ACE,,14,3,6,5,0.21,0.43,0.36,0.39,0.61,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Bolognano, Trento Province",45.91,10.90,aboveground,adult morphology + ACE,,7,3,1,3,0.43,0.14,0.43,0.64,0.36,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Riva del Garda, Trento Province",45.89,10.84,aboveground,adult morphology + ACE,,12,1,8,3,0.08,0.67,0.25,0.21,0.79,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Gazzo Padovano, Padua Province",45.56,11.68,aboveground,adult morphology + ACE,,20,0,18,2,0.00,0.90,0.10,0.05,0.95,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Oasi della Valle Averto, Venice Province",45.36,12.10,aboveground,adult morphology + ACE,,20,0,19,1,0.00,0.95,0.05,0.03,0.98,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"PeriLegnaro, Padua Province",45.34,11.97,aboveground,adult morphology + ACE,,10,1,7,2,0.10,0.70,0.20,0.20,0.80,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"PeriBrugine, Padua Province",45.30,12.00,aboveground,adult morphology + ACE,,20,1,19,0,0.05,0.95,0.00,0.05,0.95,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"S.Anna di Chioggia, Venice Province",45.15,12.27,aboveground,adult morphology + ACE,,11,1,6,4,0.09,0.55,0.36,0.27,0.73,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Rosolina, Rovigo Province",45.14,12.32,aboveground,adult morphology + ACE,,19,5,12,2,0.26,0.63,0.11,0.32,0.68,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Papozze, Rovigo Province",44.99,12.03,aboveground,adult morphology + ACE,,18,1,17,0,0.06,0.94,0.00,0.06,0.94,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Ficarolo, Rovigo Province",44.96,11.44,aboveground,adult morphology + ACE,,17,2,12,3,0.12,0.71,0.18,0.21,0.79,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Pomposa, Ferrara Province",44.84,12.18,aboveground,adult morphology + ACE,,8,1,7,0,0.13,0.88,0.00,0.13,0.88,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Ravenna, Ravenna Province",44.42,12.20,aboveground,adult morphology + ACE,,20,3,14,3,0.15,0.70,0.15,0.23,0.78,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Sala di Cesenatico, Forlì-Cesena Province",44.16,12.39,aboveground,adult morphology + ACE,,16,0,15,1,0.00,0.94,0.06,0.03,0.97,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Villa Verrucchio, Rimini Province",44.01,12.44,aboveground,adult morphology + ACE,,20,5,14,1,0.25,0.70,0.05,0.28,0.73,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Borgo a Buggiano, Pistoia Province",43.88,10.73,aboveground,adult morphology + ACE,X,38,2,33,3,0.05,0.87,0.08,0.09,0.91,0.528,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Galleno, Florence Province",43.78,10.72,aboveground,adult morphology + ACE,,10,0,8,2,0.00,0.80,0.20,0.10,0.90,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Castiglion del Lago, Perugia Province",43.13,12.05,aboveground,adult morphology + ACE,,20,1,18,1,0.05,0.90,0.05,0.08,0.93,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Principina, Grosseto Province",42.72,11.04,aboveground,adult morphology + ACE,,6,0,5,1,0.00,0.83,0.17,0.08,0.92,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"PeriNarni, Terni Province",42.53,12.51,aboveground,adult morphology + ACE,,20,4,11,5,0.20,0.55,0.25,0.33,0.68,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Avezzano, L'Aquila Province",42.03,13.43,aboveground,adult morphology + ACE,,14,3,9,2,0.21,0.64,0.14,0.29,0.71,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Guidonia, Rome Province",42.00,12.73,aboveground,adult morphology + ACE,,14,6,4,4,0.43,0.29,0.29,0.57,0.43,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Natural sites, Rome-Insugherata Park, Rome Province",41.96,12.43,aboveground,adult morphology + ACE,,16,2,12,2,0.13,0.75,0.13,0.19,0.81,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Castel di Guido, Rome Province",41.90,12.28,aboveground,adult morphology + ACE,,20,3,14,3,0.15,0.70,0.15,0.23,0.78,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Rome-Verano, Rome Province",41.90,12.53,aboveground,adult morphology + ACE,X,32,7,20,5,0.22,0.63,0.16,0.30,0.70,0.626,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Rome-Aurelio, Rome Province",41.90,12.41,aboveground,adult morphology + ACE,,20,16,3,1,0.80,0.15,0.05,0.83,0.18,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Rome-Caffarella Park, Rome Province",41.86,12.52,aboveground,adult morphology + ACE,,10,0,7,3,0.00,0.70,0.30,0.15,0.85,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Rome-Magliana, Rome Province",41.82,12.39,aboveground,adult morphology + ACE,,20,3,11,6,0.15,0.55,0.30,0.30,0.70,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Frascati, Rome Province",41.81,12.68,aboveground,adult morphology + ACE,,19,10,6,3,0.53,0.32,0.16,0.61,0.39,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Anagni, Frosinone Province",41.75,13.15,aboveground,adult morphology + ACE,,16,2,14,0,0.13,0.88,0.00,0.13,0.88,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Manfredonia, Foggia Province",41.63,15.91,aboveground,adult morphology + ACE,,12,7,5,0,0.58,0.42,0.00,0.58,0.42,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Lago di Fogliano, Latina Province",41.40,12.91,aboveground,adult morphology + ACE,,17,3,13,1,0.18,0.76,0.06,0.21,0.79,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Terracina, Latina Province",41.29,13.25,aboveground,adult morphology + ACE,,18,8,4,6,0.44,0.22,0.33,0.61,0.39,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"PeriLa Maddalena, Sassari Province",41.23,9.42,aboveground,adult morphology + ACE,,8,0,7,1,0.00,0.88,0.13,0.06,0.94,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Matera, Matera Province",40.66,16.60,aboveground,adult morphology + ACE,,15,1,9,5,0.07,0.60,0.33,0.23,0.77,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Scalea, Cosenza Province",39.81,15.79,aboveground,adult morphology + ACE,,6,1,5,0,0.17,0.83,0.00,0.17,0.83,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Rende, Cosenza Province",39.33,16.18,aboveground,adult morphology + ACE,,12,1,11,0,0.08,0.92,0.00,0.08,0.92,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Zafferana, Catania Province",37.66,15.12,aboveground,adult morphology + ACE,X,47,0,46,1,0.00,0.98,0.02,0.01,0.99,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,Piedmont,44.90,8.62,aboveground,adult morphology + ACE + COI ,,12,0,9,3,0.00,0.75,0.25,0.02,0.99,,unknown,S11,10.1186/s13071-016-1333-8,Shaikevich,2016
+Lybia,Tripoli,32.89,13.24,aboveground,adult morphology,X,146,51,74,20,0.35,0.51,0.14,0.42,0.58,,yes across sites,S22,https://www.dipterajournal.com/archives/2019/6/6/A/6-5-1,Aqeehal,2019
+Morocco,"Urban sites, Tanger",35.78,-5.85,aboveground,larval morphology,,23,2,16,5,0.09,0.70,0.22,0.20,0.80,,no,S8,10.1186/1756-3305-5-83,Amraoui,2012
+Morocco,"Suburban sites, Tanger",35.78,-5.85,aboveground,larval morphology,,23,8,12,3,0.35,0.52,0.13,0.41,0.59,,no,S8,10.1186/1756-3305-5-83,Amraoui,2012
+Morocco,"Rural sites, Tanger",35.78,-5.85,aboveground,larval morphology,,24,2,15,7,0.08,0.63,0.29,0.23,0.77,,no,S8,10.1186/1756-3305-5-83,Amraoui,2012
+Morocco,"Urban sites, Mohammedia",33.67,-7.45,aboveground,larval morphology,,29,5,9,15,0.17,0.31,0.52,0.43,0.57,,no,S8,10.1186/1756-3305-5-83,Amraoui,2012
+Morocco,"Suburban sites, Mohammedia",33.67,-7.45,aboveground,larval morphology,,28,5,15,8,0.18,0.54,0.29,0.32,0.68,,no,S8,10.1186/1756-3305-5-83,Amraoui,2012
+Morocco,"Suburban sites, Marrakech",31.64,-8.17,aboveground,larval morphology,,23,2,14,7,0.09,0.61,0.30,0.24,0.76,,no,S8,10.1186/1756-3305-5-83,Amraoui,2012
+Morocco,"Rural sites, Marrakech",31.64,-8.17,aboveground,larval morphology,,23,1,18,4,0.04,0.78,0.17,0.13,0.87,,no,S8,10.1186/1756-3305-5-83,Amraoui,2012
+Morocco,Tanger,35.78,-5.85,aboveground,larval morphology,X,58,1,38,19,0.02,0.66,0.33,0.18,0.82,-0.105,no,S1,10.1002/ps.6127,Arich,2021
+Morocco,Larache,35.18,-6.13,aboveground,larval morphology,X,60,40,25,31,0.67,0.42,0.52,0.93,0.68,0.338,no,S1,10.1002/ps.6127,Arich,2021
+Morocco,Mohammedia,33.67,-7.45,aboveground,larval morphology,X,58,7,27,24,0.12,0.47,0.41,0.33,0.67,0.061,no,S1,10.1002/ps.6127,Arich,2021
+Morocco,Marrakech,31.64,-8.17,aboveground,larval morphology,X,60,10,18,32,0.17,0.30,0.53,0.43,0.57,-0.086,no,S1,10.1002/ps.6127,Arich,2021
+Morocco,Agadir,30.36,-9.49,aboveground,larval morphology,X,57,9,11,37,0.16,0.19,0.65,0.48,0.52,-0.300,no,S1,10.1002/ps.6127,Arich,2021
+Portugal,Comporta,38.38,-8.78,aboveground,adult morphology + ACE + 14 microsats,,145,78,41,26,0.54,0.28,0.18,0.63,0.37,,yes across sites,S7,10.1186/1471-2148-9-262,Gomes,2009
+Portugal,Comporta,38.38,-8.78,aboveground,adult morphology + ACE + 14 microsats,X,291,49,207,34,0.17,0.71,0.12,0.23,0.77,,yes across sites,S9,10.1186/1756-3305-6-93,Gomes,2013
+Portugal,Montemor-o-Novo,38.65,-8.19,aboveground,adult morphology + ACE,,7,0,6,1,0.00,0.86,0.14,0.07,0.93,,yes across years,S6,10.1111/mve.12020,Osório,2014
+Portugal,Mourao,38.34,-7.37,aboveground,adult morphology + ACE,,6,0,4,2,0.00,0.67,0.33,0.17,0.83,,yes across years,S6,10.1111/mve.12020,Osório,2014
+Portugal,Portimao,38.15,-8.62,aboveground,adult morphology + ACE,,6,1,4,1,0.17,0.67,0.17,0.25,0.75,,yes across years,S6,10.1111/mve.12020,Osório,2014
+Portugal,Ferreira do Alentejo,38.12,-8.17,aboveground,adult morphology + ACE,,5,3,0,2,0.60,0.00,0.40,0.80,0.20,,yes across years,S6,10.1111/mve.12020,Osório,2014
+Portugal,Beja,38.04,-7.87,aboveground,adult morphology + ACE,,6,2,3,1,0.33,0.50,0.17,0.42,0.58,,yes across years,S6,10.1111/mve.12020,Osório,2014
+Portugal,Albufeira,37.10,-8.33,aboveground,adult morphology + ACE,,6,0,5,1,0.00,0.83,0.17,0.08,0.92,,yes across years,S6,10.1111/mve.12020,Osório,2014
+Portugal,Madeira Island,32.76,-16.96,aboveground,adult morphology + ACE,,13,9,0,4,0.69,0.00,0.31,0.85,0.15,,no,S21,10.4269/ajtmh.2006.75.2.0750251,Bahnck,2006
+Romania,"Urban sites, Bucharest city",44.44,26.07,aboveground,adult morphology,X,172,78,79,15,0.45,0.46,0.09,0.50,0.50,,yes across sites and years,S24,10.1089/vbz.2020.2739,Tiron,2021
+Romania,"Wetlands, Bucharest city",44.40,26.13,aboveground,adult morphology,,57,1,56,0,0.02,0.98,0.00,0.02,0.98,,yes across sites and years,S24,10.1089/vbz.2020.2739,Tiron,2021
+Romania,"Suburban sites, Ilfov county",44.45,26.23,aboveground,adult morphology,,85,24,57,4,0.28,0.67,0.05,0.31,0.69,,yes across sites and years,S24,10.1089/vbz.2020.2739,Tiron,2021
+Romania,"Farms, Ilfov county",44.18,25.30,aboveground,adult morphology,X,78,58,17,3,0.74,0.22,0.04,0.76,0.24,,yes across sites and years,S24,10.1089/vbz.2020.2739,Tiron,2021
+Russia,Moscow,55.75,37.62,aboveground,adult morphology + ACE + COI ,X,7,0,7,0,0.00,1.00,0.00,0.00,1.00,,unknown,S11,10.1186/s13071-016-1333-8,Shaikevich,2016
+Russia,Vologograd,48.70,44.51,aboveground,adult morphology + ACE + COI ,X,12,0,12,0,0.00,1.00,0.00,0.00,1.00,,unknown,S11,10.1186/s13071-016-1333-8,Shaikevich,2016
+Spain,Coria,39.98,-6.52,aboveground,adult morphology + ACE,X,33,2,23,8,0.06,0.70,0.24,0.18,0.82,0.185,no,S5,10.1111/jvec.12248,Bravo-Barriga,2017
+Spain,Badajoz,38.88,-6.97,aboveground,adult morphology + ACE,,14,3,9,2,0.21,0.64,0.14,0.29,0.71,,no,S5,10.1111/jvec.12248,Bravo-Barriga,2017
+Spain,Cáceres Centro,39.48,-6.37,aboveground,adult morphology + ACE,,12,4,5,3,0.33,0.42,0.25,0.46,0.54,,no,S5,10.1111/jvec.12248,Bravo-Barriga,2017
+Spain,Facultad Veterinaria,39.48,-6.35,aboveground,adult morphology + ACE,,21,3,16,2,0.14,0.76,0.10,0.19,0.81,,no,S5,10.1111/jvec.12248,Bravo-Barriga,2017
+Spain,Berlanga,38.28,-5.83,aboveground,adult morphology + ACE,X,161,10,99,52,0.06,0.61,0.32,0.22,0.78,0.070,no,S5,10.1111/jvec.12248,Bravo-Barriga,2017
+Spain,Talayuela,39.99,-5.61,aboveground,adult morphology + ACE,,6,1,3,2,0.17,0.50,0.33,0.33,0.67,,no,S5,10.1111/jvec.12248,Bravo-Barriga,2017
+Spain,Barcarrota,38.51,-6.85,aboveground,adult morphology + ACE,,10,3,3,4,0.30,0.30,0.40,0.50,0.50,,no,S5,10.1111/jvec.12248,Bravo-Barriga,2017
+Spain,Castuera,38.69,-5.54,aboveground,adult morphology + ACE,,15,1,11,3,0.07,0.73,0.20,0.17,0.83,,no,S5,10.1111/jvec.12248,Bravo-Barriga,2017
+Spain,La Codosera,39.20,-7.17,aboveground,adult morphology + ACE,,26,1,20,5,0.04,0.77,0.19,0.13,0.87,,no,S5,10.1111/jvec.12248,Bravo-Barriga,2017
+Spain,Mérida,40.00,-6.29,aboveground,adult morphology + ACE,,17,2,12,3,0.12,0.71,0.18,0.21,0.79,,no,S5,10.1111/jvec.12248,Bravo-Barriga,2017
+Spain,Herrera de Alcántara,39.64,-7.41,aboveground,adult morphology + ACE,,11,0,8,3,0.00,0.73,0.27,0.14,0.86,,no,S5,10.1111/jvec.12248,Bravo-Barriga,2017
+Spain,Madrigalejo,39.14,-5.63,aboveground,adult morphology + ACE,X,74,7,51,16,0.09,0.69,0.22,0.20,0.80,0.331,no,S5,10.1111/jvec.12248,Bravo-Barriga,2017
+Spain,Montijo,38.91,-6.62,aboveground,adult morphology + ACE,,9,0,6,3,0.00,0.67,0.33,0.17,0.83,,no,S5,10.1111/jvec.12248,Bravo-Barriga,2017
+Spain,Zafra,38.42,-6.42,aboveground,adult morphology + ACE,X,42,2,28,12,0.05,0.67,0.29,0.19,0.81,0.074,no,S5,10.1111/jvec.12248,Bravo-Barriga,2017
+Spain,"Urban sites, Huelva",37.26,-6.94,aboveground,adult morphology,X,51,27,8,16,0.53,0.16,0.31,0.69,0.31,,yes across sites,S10,10.1186/s12936‐016‐1643‐5,Martínez-de la Puente,2016
+Spain,"Suburban/Rural sites, Huelva",37.26,-6.94,aboveground,adult morphology,,36,10,12,14,0.28,0.33,0.39,0.47,0.53,,yes across sites,S10,10.1186/s12936‐016‐1643‐5,Martínez-de la Puente,2016
+Spain,"Natural sites, Huelva",37.26,-6.94,aboveground,adult morphology,,33,8,16,9,0.24,0.49,0.27,0.38,0.62,,yes across sites,S10,10.1186/s12936‐016‐1643‐5,Martínez-de la Puente,2016
+Sweden,Gothenburg,57.70,11.97,aboveground,adult morphology + ACE,,10,0,10,0,0.00,1.00,0.00,0.00,1.00,,no,S14,10.1186/s13071-016-1925-3,Hesson,2016
+The Netherlands,Various sites across the country,52.36,4.90,aboveground,adult morphology + CQ11,X,153,39,104,10,0.25,0.68,0.07,0.29,0.71,,yes across sites,S3,10.1089/vbz.2015.1820,Vogels,2015
+Tunisia,Cap serrat ,37.34,9.67,aboveground,adult morphology + ACE + cytb,,20,1,18,1,0.05,0.90,0.05,0.08,0.93,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,Skhira,37.05,9.33,aboveground,adult morphology + ACE + cytb,,10,1,3,6,0.10,0.30,0.60,0.40,0.60,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,Utique,37.07,10.01,aboveground,adult morphology + ACE + cytb,,17,11,0,6,0.65,0.00,0.35,0.82,0.18,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,Manar,37.04,9.87,aboveground,adult morphology + ACE + cytb,,20,5,9,6,0.25,0.45,0.30,0.40,0.60,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,Zaarour,37.12,9.74,aboveground,adult morphology + ACE + cytb,,20,6,12,2,0.30,0.60,0.10,0.35,0.65,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,Chotrana,36.90,10.22,aboveground,adult morphology + ACE + cytb,,20,5,7,8,0.25,0.35,0.40,0.45,0.55,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,Korba,36.58,10.86,aboveground,adult morphology + ACE + cytb,,20,9,2,9,0.45,0.10,0.45,0.68,0.33,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,Beja oued ,36.74,9.21,aboveground,adult morphology + ACE + cytb,,20,5,9,6,0.25,0.45,0.30,0.40,0.60,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,Tastour,36.54,9.40,aboveground,adult morphology + ACE + cytb,,20,5,9,6,0.25,0.45,0.30,0.40,0.60,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,Cité el Arayes,36.41,10.14,aboveground,adult morphology + ACE + cytb,,20,4,6,10,0.20,0.30,0.50,0.45,0.55,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,Kairouan,35.67,10.11,aboveground,adult morphology + ACE + cytb,,20,8,3,9,0.40,0.15,0.45,0.63,0.38,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,Cité bassatin,35.17,8.83,aboveground,adult morphology + ACE + cytb,,20,2,8,10,0.10,0.40,0.50,0.35,0.65,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,Sidi bouzid,34.65,9.59,aboveground,adult morphology + ACE + cytb,,20,8,7,5,0.40,0.35,0.25,0.53,0.48,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,Gafsa,34.45,8.64,aboveground,adult morphology + ACE + cytb,,20,3,11,6,0.15,0.55,0.30,0.30,0.70,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,Route d'el Ain,34.75,10.75,aboveground,adult morphology + ACE + cytb,,20,6,4,10,0.30,0.20,0.50,0.55,0.45,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,Teboulbou,33.84,10.13,aboveground,adult morphology + ACE + cytb,,20,11,7,2,0.55,0.35,0.10,0.60,0.40,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,Route dghech,33.96,8.18,aboveground,adult morphology + ACE + cytb,,20,0,14,6,0.00,0.70,0.30,0.15,0.85,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,Douz,33.44,9.03,aboveground,adult morphology + ACE + cytb,,8,0,5,3,0.00,0.63,0.38,0.19,0.81,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,Nefza,36.97,9.07,aboveground,adult morphology + ACE + COI ,,13,7,4,2,0.54,0.31,0.15,0.62,0.39,,unknown,S11,10.1186/s13071-016-1333-8,Shaikevich,2016
+Tunisia,Tabarka,36.95,8.75,aboveground,adult morphology + ACE + COI ,,9,4,2,3,0.44,0.23,0.33,0.61,0.40,,unknown,S11,10.1186/s13071-016-1333-8,Shaikevich,2016
+UK,"Menstrie, Scotland",56.15,-3.85,aboveground,adult morphology + ACE,,8,0,8,0,0.00,1.00,0.00,0.00,1.00,,no,S21,10.4269/ajtmh.2006.75.2.0750251,Bahnck,2006
+UK,"Barking, England",51.53,0.07,aboveground,adult morphology + ACE,,7,0,7,0,0.00,1.00,0.00,0.00,1.00,,no,S21,10.4269/ajtmh.2006.75.2.0750251,Bahnck,2006
+UK,Elmley Nature Reserve,51.38,0.79,aboveground,adult morphology + ACE,X,97,0,97,0,0.00,1.00,0.00,0.00,1.00,,no,S15,10.1186/s13071-017-2098-4,Brugman,2017
+Sweden,"Farms, Linköping",58.30,15.58,aboveground,adult morphology + CQ11,,22,1,21,0,0.05,0.95,0.00,0.05,0.95,,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+Sweden,"Farms, Linköping",58.34,15.60,aboveground,adult morphology + CQ11,,8,0,7,1,0.00,0.88,0.13,0.06,0.94,,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+Sweden,"Farms, Linköping",58.33,15.70,aboveground,adult morphology + CQ11,,6,0,6,0,0.00,1.00,0.00,0.00,1.00,,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+Sweden,"Peri-urban sites, Linköping",58.42,15.50,aboveground,adult morphology + CQ11,,26,0,26,0,0.00,1.00,0.00,0.00,1.00,,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+Sweden,"Peri-urban sites, Linköping",58.40,15.63,aboveground,adult morphology + CQ11,X,31,0,29,2,0.00,0.94,0.06,0.03,0.97,,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+Sweden,"Peri-urban sites, Linköping",58.41,15.60,aboveground,adult morphology + CQ11,,19,0,19,0,0.00,1.00,0.00,0.00,1.00,,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+Sweden,"Wetlands, Linköping",58.36,15.65,aboveground,adult morphology + CQ11,,5,0,5,0,0.00,1.00,0.00,0.00,1.00,,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+Sweden,"Wetlands, Linköping",58.36,15.65,aboveground,adult morphology + CQ11,,12,1,11,0,0.08,0.92,0.00,0.08,0.92,,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+Sweden,"Wetlands, Linköping",58.36,15.66,aboveground,adult morphology + CQ11,,9,1,8,0,0.11,0.89,0.00,0.11,0.89,,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+The Netherlands,"Farms, Wageningen",51.97,5.76,aboveground,adult morphology + CQ11,,6,0,6,0,0.00,1.00,0.00,0.00,1.00,,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+The Netherlands,"Farms, Wageningen",51.97,5.77,aboveground,adult morphology + CQ11,,36,7,21,8,0.19,0.58,0.22,0.31,0.69,0.476,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+The Netherlands,"Farms, Wageningen",52.01,5.65,aboveground,adult morphology + CQ11,,32,7,18,7,0.22,0.56,0.22,0.33,0.67,0.504,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+The Netherlands,"Peri-urban sites, Wageningen",52.02,5.66,aboveground,adult morphology + CQ11,,42,0,35,7,0.00,0.83,0.17,0.08,0.92,-0.091,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+The Netherlands,"Peri-urban sites, Wageningen",51.98,5.65,aboveground,adult morphology + CQ11,,62,3,48,11,0.05,0.77,0.18,0.14,0.86,0.250,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+The Netherlands,"Peri-urban sites, Wageningen",51.98,5.66,aboveground,adult morphology + CQ11,,11,1,8,2,0.09,0.73,0.18,0.18,0.82,,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+The Netherlands,"Wetlands, Wageningen",51.97,5.76,aboveground,adult morphology + CQ11,,30,1,25,4,0.03,0.83,0.13,0.10,0.90,0.259,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+The Netherlands,"Wetlands, Wageningen",51.97,5.76,aboveground,adult morphology + CQ11,X,71,2,62,7,0.03,0.87,0.10,0.08,0.92,0.310,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+The Netherlands,"Wetlands, Wageningen",51.97,5.75,aboveground,adult morphology + CQ11,,5,0,5,0,0.00,1.00,0.00,0.00,1.00,,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+Italy,"Farms, San Benedetto del Tronto",42.91,13.85,aboveground,adult morphology + CQ11,,17,2,11,4,0.12,0.65,0.24,0.24,0.76,,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+Italy,"Farms, San Benedetto del Tronto",42.94,13.86,aboveground,adult morphology + CQ11,,25,18,6,1,0.72,0.24,0.04,0.74,0.26,,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+Italy,"Farms, San Benedetto del Tronto",42.94,13.85,aboveground,adult morphology + CQ11,,34,7,22,5,0.21,0.65,0.15,0.28,0.72,0.635,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+Italy,"Peri-urban sites, San Benedetto del Tronto",42.88,13.88,aboveground,adult morphology + CQ11,,33,11,16,6,0.33,0.48,0.18,0.42,0.58,0.628,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+Italy,"Peri-urban sites, San Benedetto del Tronto",42.95,13.85,aboveground,adult morphology + CQ11,,8,5,2,1,0.63,0.25,0.13,0.69,0.31,,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+Italy,"Peri-urban sites, San Benedetto del Tronto",42.93,13.89,aboveground,adult morphology + CQ11,,38,9,25,4,0.24,0.66,0.11,0.29,0.71,0.744,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+Italy,"Wetlands, San Benedetto del Tronto",42.90,13.91,aboveground,adult morphology + CQ11,,9,6,2,1,0.67,0.22,0.11,0.72,0.28,,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+Italy,"Wetlands, San Benedetto del Tronto",42.90,13.91,aboveground,adult morphology + CQ11,X,40,26,12,2,0.65,0.30,0.05,0.68,0.33,0.886,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+Italy,"Wetlands, San Benedetto del Tronto",42.90,13.91,aboveground,adult morphology + CQ11,,26,19,7,0,0.73,0.27,0.00,0.73,0.27,,no,S20,10.1371/journal.pone.0166959,Vogels,2016
+Algeria,Reghaia,36.74,3.34,belowground,morphology,X,65,36,7,23,0.55,0.10,0.35,0.73,0.28,,no,S23,https://www.imedpub.com/articles/molecular-characterization-of-culex-pipiens-diptera-culicidae-in-reghaa-lake-algeria.pdf,Benallal,2015
+Algeria,"Rural sites, El-Kala",36.89,8.44,belowground,unknown,X,10,8,1,1,0.80,0.10,0.10,0.85,0.15,,no,S13,10.1186/s13071-016-1725-9,Amara Korba,2016
+Algeria,"Urban sites, El-Kala",36.89,8.44,belowground,unknown,,9,4,0,5,0.44,0.00,0.56,0.72,0.28,,no,S13,10.1186/s13071-016-1725-9,Amara Korba,2016
+Algeria,"Suburban sites, El-Kala",36.89,8.44,belowground,unknown,,7,7,0,0,1.00,0.00,0.00,1.00,0.00,,no,S13,10.1186/s13071-016-1725-9,Amara Korba,2016
+Algeria,"Urban sites, M'Sila",35.70,4.54,belowground,unknown,X,8,2,0,6,0.25,0.00,0.75,0.63,0.38,,no,S13,10.1186/s13071-016-1725-9,Amara Korba,2016
+Algeria,"Urban sites, Tinerkouk",29.70,0.71,belowground,unknown,X,10,3,1,6,0.30,0.10,0.60,0.60,0.40,,no,S13,10.1186/s13071-016-1725-9,Amara Korba,2016
+Germany,Wiesbaden,50.07,8.23,belowground,adult morphology + ACE,X,8,8,0,0,1.00,0.00,0.00,1.00,0.00,,no,S21,10.4269/ajtmh.2006.75.2.0750251,Bahnck,2006
+Italy,"Montelibretti, Rome Province",42.15,12.65,belowground,adult morphology + ACE,X,20,20,0,0,1.00,0.00,0.00,1.00,0.00,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Rome RAI, Rome Province",41.93,12.46,belowground,adult morphology + ACE,,9,9,0,0,1.00,0.00,0.00,1.00,0.00,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,"Subiaco, Rome Province",41.93,13.10,belowground,adult morphology + ACE,X,18,15,3,0,0.83,0.17,0.00,0.83,0.17,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,Rome-Valcannuta,41.90,12.42,belowground,adult morphology + ACE,,18,18,0,0,1.00,0.00,0.00,1.00,0.00,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Italy,Rome-Forlanini,41.87,12.45,belowground,adult morphology + ACE,,10,9,0,1,0.90,0.00,0.10,0.95,0.05,,no,S19,10.1371/journal.pone.0146476,Di Luca,2016
+Morocco,"Urban sites, Mohammedia",33.67,-7.45,belowground,larval morphology,X,32,19,8,5,0.59,0.25,0.16,0.67,0.33,,no,S8,10.1186/1756-3305-5-83,Amraoui,2012
+Morocco,"Rural sites, Marrakech",31.64,-8.17,belowground,larval morphology,X,9,3,5,1,0.33,0.56,0.11,0.39,0.61,,no,S8,10.1186/1756-3305-5-83,Amraoui,2012
+Romania,"Subways, Bucharest city",44.44,26.07,belowground,adult morphology,X,56,45,1,10,0.80,0.02,0.18,0.89,0.11,,yes across sites and years,S24,10.1089/vbz.2020.2739,Tiron,2021
+Russia,Sankt-Petersburg,59.93,30.32,belowground,adult morphology + ACE + COI ,X,15,9,0,6,0.60,0.00,0.40,0.80,0.20,,unknown,S11,10.1186/s13071-016-1333-8,Shaikevich,2016
+Russia,Moscow,55.75,37.62,belowground,adult morphology + ACE + COI ,X,20,18,0,2,0.90,0.00,0.10,0.95,0.05,,unknown,S11,10.1186/s13071-016-1333-8,Shaikevich,2016
+Russia,Vologograd,48.70,44.51,belowground,adult morphology + ACE + COI ,X,8,5,0,3,0.62,0.00,0.38,0.81,0.19,,unknown,S11,10.1186/s13071-016-1333-8,Shaikevich,2016
+Sweden,Gothenburg,57.70,11.97,belowground,adult morphology + ACE,X,11,11,0,0,1.00,0.00,0.00,1.00,0.00,,no,S14,10.1186/s13071-016-1925-3,Hesson,2016
+The Netherlands,Amsterdam,52.36,4.90,belowground,adult morphology,X,29,18,2,9,0.62,0.07,0.31,0.78,0.23,,no,S4,10.1111/j.1948-7134.2010.00050.x,Reusken,2010
+Tunisia,Cité nozha,36.87,10.21,belowground,adult morphology + ACE + cytb,X,20,9,1,10,0.45,0.05,0.50,0.70,0.30,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,"Cave 1, Tunis",36.80,10.18,belowground,adult morphology + ACE + cytb,,20,10,1,9,0.50,0.05,0.45,0.73,0.28,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,"Cave 2, Tunis",36.80,10.18,belowground,adult morphology + ACE + cytb,,20,11,1,8,0.55,0.05,0.40,0.75,0.25,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+Tunisia,Cité olympique,36.84,10.19,belowground,adult morphology + ACE + cytb,,20,8,2,10,0.40,0.10,0.50,0.65,0.35,,yes across years,S16,10.1186/s13071-017-2265-7,Beji,2017
+UK,"Menstrie, Scotland",56.15,-3.85,belowground,adult morphology + ACE,X,8,8,0,0,1.00,0.00,0.00,1.00,0.00,,no,S21,10.4269/ajtmh.2006.75.2.0750251,Bahnck,2006
+UK,"Barking, England",51.53,0.07,belowground,adult morphology + ACE,X,12,12,0,0,1.00,0.00,0.00,1.00,0.00,,no,S21,10.4269/ajtmh.2006.75.2.0750251,Bahnck,2006

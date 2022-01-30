@@ -1,0 +1,28 @@
+﻿Country,Locality,Latitude,Longitude,SiteType,CpipComplexIDMethod,BloodMealIDMethod,N_TotalBirdMammal,N_Bird,N_MammalAll,N_MammalHuman,N_MammalNonHuman,N_Other,Freq_Bird,Freq_MammalAll,Freq_MammalHuman,Freq_MammalNonHuman,Fig5A_PieID,Fig5A_inset_PieID,Reference,DOI/link,1stAuthor,Year
+UK,Elmley NR,51.38,0.79,mixed,morphology + ACE,PCR,97,97,0,0,0,0,100,0,0,0,1,,S15,10.1186/s13071-017-2098-4,Brugman,2017
+Germany,Various localities across Germany,51.04,10.12,mixed,morphology + CQ11,PCR,100,28,72,35,37,0,28,72,35,37,2,,S31,10.1186/s13071-016-1597-z,Börstler,2016
+Czech Republic,Wetlands and fishponds in southern Czech,48.8,16.64,outdoors,morphology,PCR,57,53,4,2,2,2,93,7,4,4,3,1,S37,10.1603/ME13029,Radrova,2013
+Italy,Trento,45.55,10.53,outdoors,morphology,PCR,45,45,0,0,0,0,100,0,0,0,4,1,S39,10.1111/j.1948-7134.2012.00196.x,Roiz,2012
+Italy,Veneto,45.08,11.34,outdoors,morphology,PCR,187,144,43,13,30,1,77,23,7,16,5,1,S38,10.1186/s13071-015-0831-4,Rizzoli,2015
+Romania,Bucharest,44.42,26.1,outdoors,morphology,PCR,216,136,80,33,47,0,63,37,15,22,6,1,S24,10.1089/vbz.2020.2739,Tiron,2021
+Spain,Barcelona,41.38,2.17,outdoors,morphology,PCR,43,13,30,15,15,0,30,70,35,35,7,1,S36,10.1603/ME11016,Muñoz,2011
+Portugal,Various localities across Portugal,39.6,-7.99,mixed,morphology + CQ11,PCR,59,43,16,15,1,0,73,27,25,2,8,,S6,10.1111/mve.12020,Osório,2014
+Turkey,Kayseri,38.72,35.48,unknown,morphology,PCR,141,98,43,17,26,7,70,30,12,18,9,,S35,10.5152/tpd.2016.4882,Korkmaz,2017
+Portugal,Comporta,38.38,-8.78,animal shelters,morphology + ACE + microsats,ELISA,162,159,3,3,0,8,98,2,2,0,10,,S9,10.1186/1756-3305-6-93,Gomes,2013
+Spain,Huelva,37.26,-6.94,outdoors,morphology,PCR,120,80,40,6,34,0,67,33,5,28,11,1,S10,10.1186/s12936‐016‐1643‐5,Martínez-de la Puente,2016
+Spain,Doñana National Park,37.14,-6.49,outdoors,morphology,PCR,80,69,11,4,7,1,86,14,5,9,12,1,S43,https://doi.org/10.1371/journal.pone.0039549,Muñoz,2012
+Spain,Doñana National Park,37.04,-6.43,outdoors,morphology,PCR,25,20,5,1,4,0,80,20,4,16,13,1,S28,10.1371/journal.pone.0007092,Alcaide,2009
+Iran,Caspian Sea coast,36.66,51.09,mixed,morphology + CQ11,PCR,321,76,245,151,94,2,24,76,47,29,14,,S17,10.1186/s13071-018-3237-2,Shahhosseini,2018
+Israel,"Arava, Jerusalem, and Tel-Aviv",31.76,35.2,outdoors,morphology,PCR,29,3,26,4,22,0,10,90,14,76,15,2,S40,10.1603/me13125,Valinsky,2014
+Egypt,"3 farms, Gharbiya Governate",30.76,30.85,outdoors,morphology,precipitin,881,5,876,378,498,10,1,99,43,57,16,2,S41,10.1093/jmedent/22.1.82,Zimmerman,1985
+Egypt,"El-Takadom, Ismailia Governate",30.59,32.27,human houses,morphology,Elisa,502,9,493,490,3,5,2,98,98,1,17,3,S29,http://www.ees.eg.net/pdf/b2004/6.pdf,Bahgat,2004
+Egypt,"Abu Heif, Sharqia Governate",30.54,31.72,animal shelters,morphology,Antisera test,2679,356,2323,356,1967,0,13,87,13,73,18,,S32,10.1093/jmedent/32.5.573,Gad ,1995
+Egypt,"Abu Heif, Sharqia Governate",30.54,31.72,human houses,morphology,Antisera test,4541,304,4237,3597,640,0,7,93,79,14,18,3,S32,10.1093/jmedent/32.5.573,Gad ,1995
+Egypt,"El-Mekhames, Qalyubia Governate",30.22,31.49,human houses,morphology,Elisa,561,7,554,542,12,19,1,99,97,2,19,3,S29,http://www.ees.eg.net/pdf/b2004/6.pdf,Bahgat,2004
+Egypt,"6 sites, Giza Governate",30.04,31.09,outdoors,morphology,precipitin,1720,10,1710,245,1465,0,1,99,14,85,20,2,S42,10.1093/jmedent/25.5.410,Zimmerman,1988
+Egypt,"2 villages, Faiyum Governate",29.31,30.84,animal shelters,morphology,precipitin,79,0,79,23,56,0,0,100,29,71,21,,S30,10.1093/jmedent/24.1.28,Beier,1987
+Egypt,"2 villages, Faiyum Governate",29.31,30.84,human houses,morphology,precipitin,267,3,264,198,66,0,1,99,74,25,21,3,S30,10.1093/jmedent/24.1.28,Beier,1987
+Egypt,"2 villages, Faiyum Governate",29.31,30.84,outdoors,morphology,precipitin,552,5,547,90,457,0,1,99,16,83,21,2,S30,10.1093/jmedent/24.1.28,Beier,1987
+Egypt,"3 villages, Aswan Governate",24.48,32.95,outdoors,morphology,Elisa,91,5,86,64,22,17,5,95,70,24,22,2,S33,10.1093/jmedent/36.6.709,Gad ,1999
+Egypt,"4 districts, Aswan Governate",24.09,32.9,human houses,morphology,precipitin,239,14,225,142,83,0,6,94,59,35,23,3,S34,10.1093/jmedent/24.1.35,Kenawy,1987
+Egypt,"4 districts, Aswan Governate",24.09,32.9,outdoors,morphology,precipitin,154,2,152,11,141,0,1,99,7,92,23,2,S34,10.1093/jmedent/24.1.35,Kenawy,1987
